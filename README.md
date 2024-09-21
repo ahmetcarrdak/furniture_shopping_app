@@ -1,4 +1,4 @@
-# furniture_shopping_app
+# furniture Shopping App
 
 ![Project Image](./4326821.jpg)
 
