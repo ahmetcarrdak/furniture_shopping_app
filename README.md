@@ -1,4 +1,3 @@
-```markdown
 # Project Title
 
 ![Project Image](./4326821.jpg)
