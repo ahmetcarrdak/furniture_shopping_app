@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "furniture-shopping-app",
+    "slug": "furniture-shopping-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/animation_logo.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5F6FA"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#F5F6FA"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    }
+  }
+}
